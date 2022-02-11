@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/kurt/Documents/git/kurtlogan/countdown/target/scala-2.12/countdown_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countdown[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/countdown/target/scala-2.12/classes/countdown[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countdown/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/countdown/target/scala-2.12/classes/countdown/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countdown/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/countdown/target/scala-2.12/classes/countdown/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	countdown/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurt/Documents/git/kurtlogan/countdown/target/scala-2.12/classes/countdown/Main.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
